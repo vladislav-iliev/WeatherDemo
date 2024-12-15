@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherDemo</string>
+
+    <string name="message_format">%1$s\n%2$s</string>
+    <string name="loading">Loading, please wait…</string>
+    <string name="loaded">Loaded</string>
+    <string name="error_connection">Connection error</string>
+    <string name="error_unknown_format">Error: unknown format</string>
+    <string name="error_unexpected">Unexpected error</string>
+
+    <string name="location">Location</string>
+    <string name="refresh">Refresh</string>
+    <string name="list_sensor_time">Time: %s</string>
+    <string name="list_sensor_temperature">Temperature: %1$s%2$s</string>
+    <string name="list_sensor_weather">Weather: %s WMO</string>
+    <string name="list_sensor_windspeed">Wind speed: %1$s%2$s</string>
+</resources>
